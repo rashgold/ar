@@ -48,7 +48,7 @@
 	right: 22px;
 	height: 35px;
 	width: 21px;
-	background: url(../img/buttons/dark.png) no-repeat 0 center;
+	background: url(http://www.arageek.com/wp-content/plugins/attentionGrabber_v1.5/img/buttons/dark.png) no-repeat 0 center;
 	cursor: pointer;
 }
 
@@ -88,7 +88,7 @@
 	display: block;
 	width: 21px;
 	height: 34px;
-	background: url(../img/buttons/dark.png) no-repeat right 50%;
+	background: url(http://www.arageek.com/wp-content/plugins/attentionGrabber_v1.5/img/buttons/dark.png) no-repeat right 50%;
 }
 
 #attentionGrabberWrap #openAttentionGrabber:hover span{
